@@ -24,8 +24,8 @@
 
 <div align="center">
 
-<img height="160em" src="https://joseangelalejo.github.io/joseangelalejo/github-stats.svg" alt="GitHub Stats"/>
-<img height="160em" src="https://joseangelalejo.github.io/joseangelalejo/top-langs.svg" alt="Top Languages"/>
+<img height="160em" src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-stats.svg" alt="GitHub Stats"/>
+<img height="160em" src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/top-langs.svg" alt="Top Languages"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseangelalejo&theme=tokyonight&hide_border=true&background=1a1b27&dates=7aa2f7)](https://git.io/streak-stats)
 
@@ -37,7 +37,7 @@
 
 <div align="center">
 
-<img src="https://joseangelalejo.github.io/joseangelalejo/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 </div>
 
@@ -115,7 +115,7 @@ Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición 
 
 <div align="center">
 
-![Snake animation](https://joseangelalejo.github.io/joseangelalejo/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
