@@ -18,26 +18,25 @@
 
 ---
 
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> **Tech Stack**
+
+| Category                | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**           | ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&labelColor=FF0000&color=FF0000&logo=openjdk&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&labelColor=F7DF1E&color=F7DF1E&logo=javascript&logoColor=000000) ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&labelColor=E34F26&color=E34F26&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-ffffff?style=flat&labelColor=1572B6&color=1572B6&logo=css3&logoColor=ffffff)                                                                                                                                                      |
+| **Databases**           | ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=flat&labelColor=003545&color=003545&logo=mariadb&logoColor=ffffff)                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Tools & IDEs**        | ![VS Code](https://img.shields.io/badge/-VS%20Code-ffffff?style=flat&labelColor=007ACC&color=007ACC&logo=visualstudiocode&logoColor=ffffff) ![NetBeans](https://img.shields.io/badge/-NetBeans-ffffff?style=flat&labelColor=1B6AC6&color=1B6AC6&logo=apachenetbeanside&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&labelColor=181717&color=181717&logo=github&logoColor=ffffff) ![Maven](https://img.shields.io/badge/-Maven-ffffff?style=flat&labelColor=C71A36&color=C71A36&logo=apachemaven&logoColor=ffffff) |
+| **Operating Systems**   | ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat&labelColor=0078D4&color=0078D4&logo=windows&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff) ![DietPi](https://img.shields.io/badge/-DietPi-ffffff?style=flat&labelColor=97CA00&color=97CA00&logo=raspberrypi&logoColor=ffffff)                                                                                                                                              |
+| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff) ![GitOps](https://img.shields.io/badge/-GitOps-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff)                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+---
+
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **GitHub Stats**
 
 <div align="center">
 
 <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=joseangelalejo&theme=github-compact" alt="Activity Graph"/>
-<img height="160em" src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/top-langs.svg" alt="Top Languages"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseangelalejo&theme=tokyonight&hide_border=true&background=1a1b27&dates=7aa2f7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="Snake" width="25" height="25" /> **Contribution Snake**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-
-*Generated automatically with GitHub Actions workflow.*
 
 </div>
 
@@ -55,15 +54,21 @@
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> **Tech Stack**
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="Snake" width="25" height="25" /> **Contribution Snake**
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&labelColor=FF0000&color=FF0000&logo=openjdk&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&labelColor=F7DF1E&color=F7DF1E&logo=javascript&logoColor=000000) ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&labelColor=E34F26&color=E34F26&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-ffffff?style=flat&labelColor=1572B6&color=1572B6&logo=css3&logoColor=ffffff) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=flat&labelColor=003545&color=003545&logo=mariadb&logoColor=ffffff) |
-| **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/-VS%20Code-ffffff?style=flat&labelColor=007ACC&color=007ACC&logo=visualstudiocode&logoColor=ffffff) ![NetBeans](https://img.shields.io/badge/-NetBeans-ffffff?style=flat&labelColor=1B6AC6&color=1B6AC6&logo=apachenetbeanside&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&labelColor=181717&color=181717&logo=github&logoColor=ffffff) ![Maven](https://img.shields.io/badge/-Maven-ffffff?style=flat&labelColor=C71A36&color=C71A36&logo=apachemaven&logoColor=ffffff) |
-| **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat&labelColor=0078D4&color=0078D4&logo=windows&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff) ![DietPi](https://img.shields.io/badge/-DietPi-ffffff?style=flat&labelColor=97CA00&color=97CA00&logo=raspberrypi&logoColor=ffffff) |
-| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff) ![GitOps](https://img.shields.io/badge/-GitOps-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) |
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+
+*Generated automatically with GitHub Actions workflow.*
+
+</div>
+
+---
+
+*Generated automatically with GitHub Actions workflow.*
+
+</div>
 
 ---
 
@@ -77,17 +82,13 @@
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25" /> **Featured Projects**
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Projects**
 
 <div align="center">
 
 [![MisApuntesITPDAW](https://github-readme-stats.vercel.app/api/pin/?username=joseangelalejo&repo=MisApuntesITPDAW&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/joseangelalejo/MisApuntesITPDAW)
 
 </div>
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Working On**
 
 <table>
 <tr>
@@ -137,16 +138,6 @@ Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición 
 <div align="center">
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> **Contribution Graph (Dark Mode)**
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
