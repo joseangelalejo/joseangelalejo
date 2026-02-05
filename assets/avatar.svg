@@ -48,10 +48,10 @@
   <text x="60" y="405" font-family="monospace" font-size="12" fill="#e0af68">→ Contribute to OSS</text>
   
   <text x="60" y="435" font-family="monospace" font-size="14" fill="#7aa2f7">$ echo $STATUS</text>
-  <text x="60" y="458" font-family="monospace" font-size="12" fill="#9ece6a">Learning &amp; Growing 🚀</text>
+  <text x="60" y="450" font-family="monospace" font-size="12" fill="#9ece6a">Learning &amp; Growing 🚀</text>
   
   <!-- Cursor blink -->
-  <rect x="60" y="468" width="8" height="14" fill="#7aa2f7">
+  <rect x="198" y="438" width="8" height="14" fill="#7aa2f7">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
   
