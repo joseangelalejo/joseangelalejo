@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img height="160em" src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-stats.svg" alt="GitHub Stats"/>
+<img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=joseangelalejo&theme=github-compact" alt="Activity Graph"/>
 <img height="160em" src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/top-langs.svg" alt="Top Languages"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseangelalejo&theme=tokyonight&hide_border=true&background=1a1b27&dates=7aa2f7)](https://git.io/streak-stats)
@@ -36,6 +36,18 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+
+*Generated automatically with GitHub Actions workflow.*
+
+</div>
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> **GitHub Metrics**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/metrics.svg" alt="GitHub Metrics" />
 
 *Generated automatically with GitHub Actions workflow.*
 
