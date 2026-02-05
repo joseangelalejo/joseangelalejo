@@ -125,7 +125,7 @@ Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseangelalejosillero-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joseangelalejosillero/) [![Discord](https://img.shields.io/badge/Discord-MiniatureMistery-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff)](https://discord.com/users/MiniatureMistery) [![Gmail](https://img.shields.io/badge/Gmail-joseangelcorptiv-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=ffffff)](mailto:joseangelcorptiv@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseangelalejosillero-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joseangelalejosillero/) [![Discord](https://img.shields.io/badge/Discord-joseangelalejo-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff)](https://discord.com/users/joseangelalejo) [![Gmail](https://img.shields.io/badge/Gmail-joseangelcorptiv-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=ffffff)](mailto:joseangelcorptiv@gmail.com)
 
 </div>
 
