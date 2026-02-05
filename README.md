@@ -1,4 +1,4 @@
-<img align="left" src="./assets/avatar.svg" width="300" height="300" alt="Terminal Avatar">
+<img align="left" src="./assets/avatar.svg" width="300" height="390" alt="Terminal Avatar">
 
 ### Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
