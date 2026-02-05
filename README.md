@@ -2,19 +2,17 @@
 
 ### Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Arch+Linux+BTW+🐧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Linux+Enthusiast+🐧)](https://git.io/typing-svg)
 
-├── &nbsp;&nbsp; I'm a **Full Stack Developer in Training** from Spain.
-
-├── &nbsp;&nbsp; Currently studying **DAW** (Web Application Development) and diving deep into **DevOps & GitOps**.
+├── &nbsp;&nbsp; I'm a **Full Stack Developer in Training** from Spain, currently studying **DAW** (Web Application Development) and diving deep into **DevOps & GitOps**.
 
 ├── &nbsp;&nbsp; I specialize in building web applications with **Java**, **JavaScript**, and modern databases.
 
-├── &nbsp;&nbsp; Linux enthusiast running **Arch Linux btw** as my daily driver and **Proxmox VE** for my homelab.
+├── &nbsp;&nbsp; Linux enthusiast running **Linux** as my daily driver and **Proxmox VE** for my homelab.
 
 └── &nbsp;&nbsp; 2026 Goals: Master **Kubernetes**, learn **Terraform & Ansible**, and contribute to Open Source.
 
-[![GitHub](https://img.shields.io/badge/GitHub-joseangelalejo-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/joseangelalejo) [![Visits](https://komarev.com/ghpvc/?username=joseangelalejo&style=flat&color=7aa2f7&label=visits&abbreviated=true)](https://github.com/joseangelalejo) [![Arch](https://img.shields.io/badge/Arch-BTW-1793D1?style=flat&labelColor=1793D1&logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-joseangelalejo-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/joseangelalejo) [![Visits](https://komarev.com/ghpvc/?username=joseangelalejo&style=flat&color=7aa2f7&label=visits&abbreviated=true)](https://github.com/joseangelalejo) [![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=flat&labelColor=FCC624&logo=linux&logoColor=000000)](https://www.linux.org/) [![Profile Views](https://visitcount.itsvg.in/api?id=joseangelalejo&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br clear="left"/>
 
@@ -39,6 +37,8 @@
 
 <img src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
+*Generated automatically with GitHub Actions workflow.*
+
 </div>
 
 ---
@@ -47,11 +47,11 @@
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&labelColor=007396&color=007396&logo=openjdk&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&labelColor=F7DF1E&color=F7DF1E&logo=javascript&logoColor=000000) ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&labelColor=E34F26&color=E34F26&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-ffffff?style=flat&labelColor=1572B6&color=1572B6&logo=css3&logoColor=ffffff) ![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) |
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&labelColor=007396&color=007396&logo=openjdk&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&labelColor=F7DF1E&color=F7DF1E&logo=javascript&logoColor=000000) ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&labelColor=E34F26&color=E34F26&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-ffffff?style=flat&labelColor=1572B6&color=1572B6&logo=css3&logoColor=ffffff) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=flat&labelColor=003545&color=003545&logo=mariadb&logoColor=ffffff) |
 | **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/-VS%20Code-ffffff?style=flat&labelColor=007ACC&color=007ACC&logo=visualstudiocode&logoColor=ffffff) ![NetBeans](https://img.shields.io/badge/-NetBeans-ffffff?style=flat&labelColor=1B6AC6&color=1B6AC6&logo=apachenetbeanside&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&labelColor=181717&color=181717&logo=github&logoColor=ffffff) ![Maven](https://img.shields.io/badge/-Maven-ffffff?style=flat&labelColor=C71A36&color=C71A36&logo=apachemaven&logoColor=ffffff) |
-| **Operating Systems** | ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-ffffff?style=flat&labelColor=1793D1&color=1793D1&logo=archlinux&logoColor=ffffff) ![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat&labelColor=0078D4&color=0078D4&logo=windows&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff) ![DietPi](https://img.shields.io/badge/-DietPi-ffffff?style=flat&labelColor=97CA00&color=97CA00&logo=raspberrypi&logoColor=ffffff) |
-| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-ffffff?style=flat&labelColor=326CE5&color=326CE5&logo=kubernetes&logoColor=ffffff) ![GitOps](https://img.shields.io/badge/-GitOps-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) |
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000) ![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat&labelColor=0078D4&color=0078D4&logo=windows&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff) ![DietPi](https://img.shields.io/badge/-DietPi-ffffff?style=flat&labelColor=97CA00&color=97CA00&logo=raspberrypi&logoColor=ffffff) |
+| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff) ![GitOps](https://img.shields.io/badge/-GitOps-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) |
 
 ---
 
@@ -59,10 +59,19 @@
 
 ```text
 🎓 Grado Superior DAW           ██████████░░░░░░░░░░░   50% 
-☸️  Kubernetes (LFS158)         █░░░░░░░░░░░░░░░░░░░░    3%
-🔄 GitOps (LFS169)              ████████████░░░░░░░░░   60%
+🔄 GitOps (LFS169)              ███████████████░░░░░░   70%
 🚀 DevOps (LFS162)              ████░░░░░░░░░░░░░░░░░   20%
 ```
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25" /> **Featured Projects**
+
+<div align="center">
+
+[![MisApuntesITPDAW](https://github-readme-stats.vercel.app/api/pin/?username=joseangelalejo&repo=MisApuntesITPDAW&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/joseangelalejo/MisApuntesITPDAW)
+
+</div>
 
 ---
 
@@ -79,7 +88,7 @@
 
 Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 mediante integración con **Steam API**. Incluye gestión de **rankings ELO**, histórico de partidas, estadísticas detalladas y sistema de reportes. Desplegado en mi **homelab** con **Proxmox VE**. **Frontend en desarrollo**.
 
-![MySQL](https://img.shields.io/badge/-MySQL%208.0-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![IEEE 830](https://img.shields.io/badge/-IEEE%20830--1998-003545?style=flat&logo=ieee&logoColor=ffffff) ![RGPD](https://img.shields.io/badge/-RGPD%20Compliant-0052CC?style=flat&logo=checkmarx&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Homelab-E57000?style=flat&logo=proxmox&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL%208.0-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) ![IEEE 830](https://img.shields.io/badge/-IEEE%20830--1998-ffffff?style=flat&labelColor=003545&color=003545&logo=ieee&logoColor=ffffff) ![RGPD](https://img.shields.io/badge/-RGPD%20Compliant-ffffff?style=flat&labelColor=0052CC&color=0052CC&logo=checkmarx&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Homelab-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff)
 
 </td>
 </tr>
@@ -93,7 +102,7 @@ Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 me
 
 Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición y versionado de documentos. Ideal para integrar documentación en repositorios **Git**.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&labelColor=3776AB&color=3776AB&logo=python&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&labelColor=000000&color=000000&logo=markdown&logoColor=ffffff)
 
 </td>
 </tr>
@@ -101,17 +110,27 @@ Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición 
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25" /> **Featured Projects**
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> **Achievements**
 
 <div align="center">
 
-[![MisApuntesITPDAW](https://github-readme-stats.vercel.app/api/pin/?username=joseangelalejo&repo=MisApuntesITPDAW&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/joseangelalejo/MisApuntesITPDAW)
+![Linux Academy](https://img.shields.io/badge/Linux%20Academy-LFS169%20GitOps-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000) ![GitOps Certified](https://img.shields.io/badge/GitOps-Certified-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) ![DAW Student](https://img.shields.io/badge/DAW-Student-ffffff?style=flat&labelColor=007396&color=007396&logo=openjdk&logoColor=ffffff) ![Homelab Enthusiast](https://img.shields.io/badge/Homelab-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff)
 
 </div>
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> **Contribution Graph**
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> **Fun Fact**
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> **Contribution Graph (Dark Mode)**
 
 <div align="center">
 
