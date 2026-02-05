@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1b27;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24283b;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bb9af7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="400" rx="20" fill="url(#bgGrad)"/>
+  
+  <!-- Terminal Window -->
+  <rect x="40" y="60" width="320" height="280" rx="10" fill="#16161e" stroke="#414868" stroke-width="2"/>
+  
+  <!-- Terminal Header -->
+  <rect x="40" y="60" width="320" height="30" rx="10" fill="#1f2335"/>
+  <circle cx="60" cy="75" r="6" fill="#f7768e"/>
+  <circle cx="80" cy="75" r="6" fill="#e0af68"/>
+  <circle cx="100" cy="75" r="6" fill="#9ece6a"/>
+  
+  <!-- Terminal Text -->
+  <text x="60" y="120" font-family="monospace" font-size="14" fill="#7aa2f7">$ whoami</text>
+  <text x="60" y="145" font-family="monospace" font-size="14" fill="#c0caf5">joseangelalejo</text>
+  
+  <text x="60" y="175" font-family="monospace" font-size="14" fill="#7aa2f7">$ cat skills.txt</text>
+  <text x="60" y="200" font-family="monospace" font-size="12" fill="#9ece6a">Java</text>
+  <text x="100" y="200" font-family="monospace" font-size="12" fill="#e0af68">HTML</text>
+  <text x="145" y="200" font-family="monospace" font-size="12" fill="#7dcfff">CSS</text>
+  <text x="180" y="200" font-family="monospace" font-size="12" fill="#f7768e">JS</text>
+  <text x="210" y="200" font-family="monospace" font-size="12" fill="#bb9af7">SQL</text>
+  
+  <text x="60" y="230" font-family="monospace" font-size="14" fill="#7aa2f7">$ neofetch --os</text>
+  <text x="60" y="255" font-family="monospace" font-size="12" fill="#7dcfff">🐧 Arch Linux btw</text>
+  
+  <text x="60" y="285" font-family="monospace" font-size="14" fill="#7aa2f7">$ echo $STATUS</text>
+  <text x="60" y="310" font-family="monospace" font-size="12" fill="#9ece6a">Learning &amp; Growing 🚀</text>
+  
+  <!-- Cursor blink -->
+  <rect x="60" y="320" width="8" height="14" fill="#7aa2f7">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Decorative elements -->
+  <circle cx="350" cy="50" r="30" fill="url(#accentGrad)" opacity="0.3"/>
+  <circle cx="50" cy="350" r="25" fill="#f7768e" opacity="0.2"/>
+</svg>

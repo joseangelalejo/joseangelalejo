@@ -1,162 +1,95 @@
+<img align="left" src="./assets/avatar.svg" width="300" height="300" alt="Terminal Avatar">
+
+### Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Arch+Linux+BTW+🐧)](https://git.io/typing-svg)
+
+├── &nbsp;&nbsp; I'm a **Full Stack Developer in Training** from Spain.
+
+├── &nbsp;&nbsp; Currently studying **DAW** (Web Application Development) and diving deep into **DevOps & GitOps**.
+
+├── &nbsp;&nbsp; I specialize in building web applications with **Java**, **JavaScript**, and modern databases.
+
+├── &nbsp;&nbsp; Linux enthusiast running **Arch Linux btw** as my daily driver and **Proxmox VE** for my homelab.
+
+└── &nbsp;&nbsp; 2026 Goals: Master **Kubernetes**, learn **Terraform & Ansible**, and contribute to Open Source.
+
+[![GitHub](https://img.shields.io/badge/GitHub-joseangelalejo-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/joseangelalejo) [![Visits](https://komarev.com/ghpvc/?username=joseangelalejo&style=flat&color=7aa2f7&label=visits&abbreviated=true)](https://github.com/joseangelalejo) [![Arch](https://img.shields.io/badge/Arch-BTW-1793D1?style=flat&labelColor=1793D1&logo=archlinux&logoColor=ffffff)](https://archlinux.org/)
+
+<br clear="left"/>
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **GitHub Stats**
+
 <div align="center">
 
-# 👋 ¡Hey! Welcome to my profile
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=joseangelalejo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27" alt="GitHub Stats"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseangelalejo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Arch+Linux+BTW+%F0%9F%90%A7)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=joseangelalejo&label=Visitas+al+perfil&color=007ACC&style=for-the-badge" alt="Profile views"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseangelalejo&theme=tokyonight&hide_border=true&background=1a1b27&dates=7aa2f7)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> **Tech Stack**
 
-```js
-// 🧑‍💻 whoami
-const developer = {
-    pronouns: "he" | "him",
-    code: ["Java", "HTML", "CSS", "JavaScript", "SQL"],
-    tools: ["Docker", "Git", "VS Code", "NetBeans"],
-    os: {
-        main: "Arch Linux btw 🐧",
-        server: "Proxmox VE",
-        other: "Windows (cuando no queda otra)"
-    },
-    currentFocus: "Full Stack Development + DevOps",
-    funFact: "I mass tabs in the browser... and I'm not sorry 🦊"
-};
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&labelColor=007396&color=007396&logo=openjdk&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&labelColor=F7DF1E&color=F7DF1E&logo=javascript&logoColor=000000) ![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat&labelColor=E34F26&color=E34F26&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-ffffff?style=flat&labelColor=1572B6&color=1572B6&logo=css3&logoColor=ffffff) ![SQL](https://img.shields.io/badge/-SQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) ![MariaDB](https://img.shields.io/badge/-MariaDB-ffffff?style=flat&labelColor=003545&color=003545&logo=mariadb&logoColor=ffffff) |
+| **Tools & IDEs** | ![VS Code](https://img.shields.io/badge/-VS%20Code-ffffff?style=flat&labelColor=007ACC&color=007ACC&logo=visualstudiocode&logoColor=ffffff) ![NetBeans](https://img.shields.io/badge/-NetBeans-ffffff?style=flat&labelColor=1B6AC6&color=1B6AC6&logo=apachenetbeanside&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&labelColor=181717&color=181717&logo=github&logoColor=ffffff) ![Maven](https://img.shields.io/badge/-Maven-ffffff?style=flat&labelColor=C71A36&color=C71A36&logo=apachemaven&logoColor=ffffff) |
+| **Operating Systems** | ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-ffffff?style=flat&labelColor=1793D1&color=1793D1&logo=archlinux&logoColor=ffffff) ![Windows](https://img.shields.io/badge/-Windows-ffffff?style=flat&labelColor=0078D4&color=0078D4&logo=windows&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff) |
+| **DevOps & Containers** | ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-ffffff?style=flat&labelColor=326CE5&color=326CE5&logo=kubernetes&logoColor=ffffff) ![GitOps](https://img.shields.io/badge/-GitOps-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) |
 
-// 🎯 2026 goals
-const goals = [
-    "Master Kubernetes & GitOps",
-    "Learn Terraform & Ansible",
-    "Level up DevOps skills",
-    "Contribute to Open Source",
-    "Build something cool 🚀",
-    "Never stop learning"
-];
+---
 
-// 💬 Daily mood
-while (alive) {
-    eat();
-    liftHeavy();
-    code();
-    sleep();
-    repeat();
-}
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> **Currently Learning**
+
+```text
+🎓 Grado Superior DAW           ██████████░░░░░░░░░░░   50% 
+☸️  Kubernetes (LFS158)         █░░░░░░░░░░░░░░░░░░░░    3%
+🔄 GitOps (LFS169)              ████████████░░░░░░░░░   60%
+🚀 DevOps (LFS162)              ████░░░░░░░░░░░░░░░░░   20%
 ```
 
 ---
 
-## 🛠️ Tech Stack
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Working On**
+
+<table>
+<tr>
+<td width="100" align="center">
+<img src="https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/global/logo_cs_sm.svg" alt="Counter-Strike 2" width="80" height="80" />
+</td>
+<td>
+
+**CS2-SVSS Fragify** — *Counter-Strike 2 Stats Visualizing System*
+
+Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 mediante integración con **Steam API**. Incluye gestión de **rankings ELO**, histórico de partidas, estadísticas detalladas y sistema de reportes. Desplegado en mi **homelab** con **Proxmox VE**. **Frontend en desarrollo**.
+
+![MySQL](https://img.shields.io/badge/-MySQL%208.0-4479A1?style=flat&logo=mysql&logoColor=ffffff) ![IEEE 830](https://img.shields.io/badge/-IEEE%20830--1998-003545?style=flat&logo=ieee&logoColor=ffffff) ![RGPD](https://img.shields.io/badge/-RGPD%20Compliant-0052CC?style=flat&logo=checkmarx&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Homelab-E57000?style=flat&logo=proxmox&logoColor=ffffff)
+
+</td>
+</tr>
+</table>
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Card File Box" width="25" height="25" /> **Featured Projects**
 
 <div align="center">
 
-### 💻 Lenguajes de Programación
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### 🗄️ Bases de Datos
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
-
-### 🔧 Herramientas & IDEs
-
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)](https://netbeans.apache.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-
-### 🐧 Sistemas Operativos
-
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
-[![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
-[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-
-### ☁️ DevOps & Cloud
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white)](https://opengitops.dev/)
+[![MisApuntesITPDAW](https://github-readme-stats.vercel.app/api/pin/?username=joseangelalejo&repo=MisApuntesITPDAW&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/joseangelalejo/MisApuntesITPDAW)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> **Contribution Graph**
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseangelalejo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseangelalejo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseangelalejo&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎓 Formación Actual
-
-<div align="center">
-
-| 📚 Programa | 🏫 Plataforma | 📅 Estado |
-| :---: | :---: | :---: |
-| **Grado Superior DAW** | Formación Profesional 🇪🇸 | 🟢 En curso |
-| **Introduction to Kubernetes (LFS158)** | The Linux Foundation | ⏳ En progreso |
-| **Introduction to GitOps (LFS169)** | The Linux Foundation | ⏳ En progreso |
-| **Introduction to DevOps (LFS162)** | The Linux Foundation | ⏳ En progreso |
-
-</div>
-
----
-
-## 📁 Proyectos Destacados
-
-<div align="center">
-
-[![MisApuntesITPDAW](https://github-readme-stats.vercel.app/api/pin/?username=joseangelalejo&repo=MisApuntesITPDAW&theme=tokyonight&hide_border=true)](https://github.com/joseangelalejo/MisApuntesITPDAW)
-
-</div>
-
----
-
-## 🤝 Conecta conmigo
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joseangelalejo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Frase del día
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribuciones
 
 ![Snake animation](https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake-dark.svg)
 
@@ -164,8 +97,22 @@ while (alive) {
 
 ---
 
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> **Contact Me**
+
 <div align="center">
 
-⭐️ From Spain with ❤️ | *"It works on my machine"* 🐳
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseangelalejosillero-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joseangelalejosillero/) [![Discord](https://img.shields.io/badge/Discord-MiniatureMistery-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff)](https://discord.com/users/MiniatureMistery) [![Gmail](https://img.shields.io/badge/Gmail-joseangelcorptiv-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=ffffff)](mailto:joseangelcorptiv@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```js
+while (alive) { eat(); liftHeavy(); code(); sleep(); repeat(); }
+```
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="18" height="18" /> From Spain with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="18" height="18" /> | *"It works on my machine"* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" alt="Spouting Whale" width="18" height="18" />
 
 </div>
