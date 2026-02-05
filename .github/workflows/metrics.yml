@@ -31,14 +31,14 @@ jobs:
           plugin_habits_languages_threshold: 0%
           plugin_lines: no
           plugin_traffic: yes
-          plugin_pagespeed: yes
+          plugin_pagespeed: no
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_API_KEY }}
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_followup: yes
           plugin_followup_sections: repositories
-          config_order: isocalendar, languages, habits, traffic, pagespeed, stars, followup
+          config_order: isocalendar, languages, habits, traffic, stars, followup
           config_timezone: Europe/Madrid
 
       - name: Deploy to output branch
