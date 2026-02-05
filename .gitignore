@@ -1,0 +1,88 @@
+# .gitignore para joseangelalejo
+# Excluye archivos sensibles, temporales y de desarrollo
+# Basado en el .gitignore de MisApuntesITPDAW
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+*.bk
+
+# Logs y debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Entornos y configuraciones sensibles
+.env
+.env.local
+.env.production
+.env.development
+secrets.json
+config/secrets.py
+keys/
+*.key
+*.pem
+
+# IDEs y editores
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (si usas JS/TS)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Java (si usas proyectos Java)
+target/
+*.class
+# *.jar
+# *.war
+# *.ear
+# .mvn/wrapper/maven-wrapper.jar
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de backup o temporales
+*.bak
+*.backup
+*.old
+
+# Imágenes o archivos grandes (si no son necesarios)
+# Comenta si necesitas subir imágenes
+# *.jpg
+# *.png
+# *.gif
+# *.txt
+
+# Archivos personales o con rutas absolutas
+# Añade aquí si hay archivos específicos con datos personales
+# Minecraft Server
+Minecraft.zip
+MC/
