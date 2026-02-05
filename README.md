@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-joseangelalejo-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/joseangelalejo) [![Visits](https://komarev.com/ghpvc/?username=joseangelalejo&style=flat&color=7aa2f7&label=visits&abbreviated=true)](https://github.com/joseangelalejo) [![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=flat&labelColor=FCC624&logo=linux&logoColor=000000)](https://www.linux.org/)
 
-<br clear="left"/>
+<br clear="left"/
 
 ---
 
