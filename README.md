@@ -2,7 +2,7 @@
 
 ### Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&height=60&pause=1000&color=7AA2F7&vCenter=true&random=false&width=400&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Linux+Enthusiast+🐧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Linux+Enthusiast+🐧)](https://git.io/typing-svg)
 
 ├── &nbsp;&nbsp; I'm a **Full Stack Developer in Training** from Spain, currently studying **DAW** (Web Application Development) and diving deep into **DevOps & GitOps**.
 
@@ -12,7 +12,7 @@
 
 └── &nbsp;&nbsp; 2026 Goals: Learn **Kubernetes**, **Terraform & Ansible**, and contribute to Open Source.
 
-[![GitHub](https://img.shields.io/badge/GitHub-joseangelalejo-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/joseangelalejo) [![Visits](https://komarev.com/ghpvc/?username=joseangelalejo&style=flat&color=7aa2f7&label=visits&abbreviated=true)](https://github.com/joseangelalejo) [![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=flat&labelColor=FCC624&logo=linux&logoColor=000000)](https://www.linux.org/) [![Profile Views](https://profile-counter.glitch.me/joseangelalejo/count.svg)](https://github.com/joseangelalejo)
+[![GitHub](https://img.shields.io/badge/GitHub-joseangelalejo-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/joseangelalejo) [![Visits](https://komarev.com/ghpvc/?username=joseangelalejo&style=flat&color=7aa2f7&label=visits&abbreviated=true)](https://github.com/joseangelalejo) [![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=flat&labelColor=FCC624&logo=linux&logoColor=000000)](https://www.linux.org/) [![Profile Views](https://visitcount.itsvg.in/api?id=joseangelalejo&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br clear="left"/>
 
