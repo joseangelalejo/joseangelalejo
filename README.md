@@ -73,6 +73,20 @@ Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 me
 
 </td>
 </tr>
+<tr>
+<td width="150" align="center">
+<img src="https://img.shields.io/badge/PDF%20to%20Markdown-Converter-FF6B6B?style=flat&labelColor=FF6B6B&logo=markdown&logoColor=ffffff" alt="PDF Converter" />
+</td>
+<td>
+
+**PDF to Markdown Converter** — *Herramienta de conversión de documentos*
+
+Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición y versionado de documentos. Ideal para integrar documentación en repositorios **Git**.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=ffffff)
+
+</td>
+</tr>
 </table>
 
 ---
