@@ -10,7 +10,7 @@
 
 ├── &nbsp;&nbsp; Linux enthusiast running **Linux** as my daily driver and **Proxmox VE** for my homelab.
 
-└── &nbsp;&nbsp; 2026 Goals: Master **Kubernetes**, learn **Terraform & Ansible**, and contribute to Open Source.
+└── &nbsp;&nbsp; 2026 Goals: Learn **Kubernetes**, **Terraform & Ansible**, and contribute to Open Source.
 
 [![GitHub](https://img.shields.io/badge/GitHub-joseangelalejo-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/joseangelalejo) [![Visits](https://komarev.com/ghpvc/?username=joseangelalejo&style=flat&color=7aa2f7&label=visits&abbreviated=true)](https://github.com/joseangelalejo) [![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=flat&labelColor=FCC624&logo=linux&logoColor=000000)](https://www.linux.org/) [![Profile Views](https://visitcount.itsvg.in/api?id=joseangelalejo&label=Profile%20Views&color=7&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
