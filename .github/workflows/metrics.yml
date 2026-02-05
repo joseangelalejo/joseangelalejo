@@ -23,7 +23,7 @@ jobs:
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, yacc, vim script, shell, r, cmake, gnuplot
           plugin_languages_threshold: 0%
-          plugin_habits: yes
+          plugin_habits: no
           plugin_habits_from: 50
           plugin_habits_days: 14
           plugin_habits_facts: yes
