@@ -22,8 +22,8 @@ jobs:
         run: |
           mkdir -p dist
           chmod 755 dist
-          curl -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true&token=${{ secrets.GITHUB_TOKEN }}"
-          curl -o dist/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true&token=${{ secrets.GITHUB_TOKEN }}"
+          curl -L -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=dark&hide_border=true&token=${{ secrets.PAT }}"
+          curl -L -o dist/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=dark&hide_border=true&token=${{ secrets.PAT }}"
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
