@@ -21,7 +21,7 @@ jobs:
             html, css, tex, less, dockerfile, makefile, qmake, lex, yacc, vim script, shell, r, cmake, gnuplot
           plugin_languages_threshold: 0%
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_trim: yes
@@ -30,7 +30,7 @@ jobs:
           plugin_traffic: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.METRICS_TOKEN }}
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_API_KEY }}
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_followup: yes
