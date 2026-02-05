@@ -110,7 +110,7 @@ Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición 
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> **Achievements**
+#### 🏆 **Achievements**
 
 <div align="center">
 
