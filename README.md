@@ -2,7 +2,7 @@
 
 ### Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&height=50&pause=1000&color=7AA2F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Linux+Enthusiast+🐧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&height=55&pause=1000&color=7AA2F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Linux+Enthusiast+🐧)](https://git.io/typing-svg)
 
 ├── &nbsp;&nbsp; I'm a **Full Stack Developer in Training** from Spain, currently studying **DAW** (Web Application Development) and diving deep into **DevOps & GitOps**.
 
