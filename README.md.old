@@ -30,87 +30,6 @@
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> **Currently Learning**
-
-```text
-🎓 Grado Superior DAW           ██████████░░░░░░░░░░░   50% 
-🔄 GitOps (LFS169)              ███████████████░░░░░░   70%
-🚀 DevOps (LFS162)              ████░░░░░░░░░░░░░░░░░   20%
-```
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Projects**
-
-<div align="center">
-
-[![MisApuntesITPDAW](https://github-readme-stats.vercel.app/api/pin/?username=joseangelalejo&repo=MisApuntesITPDAW&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/joseangelalejo/MisApuntesITPDAW)
-
-</div>
-
-<table>
-<tr>
-<td width="100" align="center">
-<img src="./assets/01_logo_square_512x512.png" alt="Counter-Strike 2" width="80" height="80" />
-</td>
-<td>
-
-**CS2-SVSS Fragify** — *Counter-Strike 2 Stats Visualizing System*
-
-Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 mediante integración con **Steam API**. Incluye gestión de **rankings ELO**, histórico de partidas, estadísticas detalladas y sistema de reportes. Desplegado en mi **homelab** con **Proxmox VE**. **Frontend en desarrollo**.
-
-![MySQL](https://img.shields.io/badge/-MySQL%208.0-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) ![IEEE 830](https://img.shields.io/badge/-IEEE%20830--1998-ffffff?style=flat&labelColor=003545&color=003545&logo=ieee&logoColor=ffffff) ![RGPD](https://img.shields.io/badge/-RGPD%20Compliant-ffffff?style=flat&labelColor=0052CC&color=0052CC&logo=checkmarx&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Homelab-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff)
-
-</td>
-</tr>
-<tr>
-<td width="150" align="center">
-<img src="https://img.shields.io/badge/PDF%20to%20Markdown-Converter-FF6B6B?style=flat&labelColor=FF6B6B&logo=markdown&logoColor=ffffff" alt="PDF Converter" />
-</td>
-<td>
-
-**PDF to Markdown Converter** — *Herramienta de conversión de documentos*
-
-Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición y versionado de documentos. Ideal para integrar documentación en repositorios **Git**.
-
-![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&labelColor=3776AB&color=3776AB&logo=python&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&labelColor=000000&color=000000&logo=markdown&logoColor=ffffff)
-
-</td>
-</tr>
-</table>
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> **Contact Me**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseangelalejosillero-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joseangelalejosillero/) [![Discord](https://img.shields.io/badge/Discord-joseangelalejo-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff)](https://discord.com/users/joseangelalejo) [![Gmail](https://img.shields.io/badge/Gmail-joseangelcorptiv-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=ffffff)](mailto:joseangelcorptiv@gmail.com)
-
-</div>
-
----
-
-#### 🏆 **Achievements**
-
-<div align="center">
-
-![Linux Academy](https://img.shields.io/badge/Linux%20Academy-LFS169%20GitOps-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000) ![GitOps Certified](https://img.shields.io/badge/GitOps-Certified-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) ![DAW Student](https://img.shields.io/badge/DAW-Student-ffffff?style=flat&labelColor=007396&color=007396&logo=openjdk&logoColor=ffffff) ![Homelab Enthusiast](https://img.shields.io/badge/Homelab-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff)
-
-</div>
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> **Fun Fact**
-
-<div align="center">
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **GitHub Stats**
 
 <div align="center">
@@ -146,3 +65,100 @@ Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición 
 </div>
 
 ---
+
+*Generated automatically with GitHub Actions workflow.*
+
+</div>
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> **Currently Learning**
+
+```text
+🎓 Grado Superior DAW           ██████████░░░░░░░░░░░   50% 
+🔄 GitOps (LFS169)              ███████████████░░░░░░   70%
+🚀 DevOps (LFS162)              ████░░░░░░░░░░░░░░░░░   20%
+```
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Projects**
+
+<div align="center">
+
+[![MisApuntesITPDAW](https://github-readme-stats.vercel.app/api/pin/?username=joseangelalejo&repo=MisApuntesITPDAW&theme=tokyonight&hide_border=true&bg_color=1a1b27)](https://github.com/joseangelalejo/MisApuntesITPDAW)
+
+</div>
+
+<table>
+<tr>
+<td width="100" align="center">
+<img src="https://cdn.cloudflare.steamstatic.com/apps/csgo/images/csgo_react/global/logo_cs_sm.svg" alt="Counter-Strike 2" width="80" height="80" />
+</td>
+<td>
+
+**CS2-SVSS Fragify** — *Counter-Strike 2 Stats Visualizing System*
+
+Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 mediante integración con **Steam API**. Incluye gestión de **rankings ELO**, histórico de partidas, estadísticas detalladas y sistema de reportes. Desplegado en mi **homelab** con **Proxmox VE**. **Frontend en desarrollo**.
+
+![MySQL](https://img.shields.io/badge/-MySQL%208.0-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff) ![IEEE 830](https://img.shields.io/badge/-IEEE%20830--1998-ffffff?style=flat&labelColor=003545&color=003545&logo=ieee&logoColor=ffffff) ![RGPD](https://img.shields.io/badge/-RGPD%20Compliant-ffffff?style=flat&labelColor=0052CC&color=0052CC&logo=checkmarx&logoColor=ffffff) ![Proxmox](https://img.shields.io/badge/-Homelab-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff)
+
+</td>
+</tr>
+<tr>
+<td width="150" align="center">
+<img src="https://img.shields.io/badge/PDF%20to%20Markdown-Converter-FF6B6B?style=flat&labelColor=FF6B6B&logo=markdown&logoColor=ffffff" alt="PDF Converter" />
+</td>
+<td>
+
+**PDF to Markdown Converter** — *Herramienta de conversión de documentos*
+
+Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición y versionado de documentos. Ideal para integrar documentación en repositorios **Git**.
+
+![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&labelColor=3776AB&color=3776AB&logo=python&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&labelColor=000000&color=000000&logo=markdown&logoColor=ffffff)
+
+</td>
+</tr>
+</table>
+
+---
+
+#### 🏆 **Achievements**
+
+<div align="center">
+
+![Linux Academy](https://img.shields.io/badge/Linux%20Academy-LFS169%20GitOps-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000) ![GitOps Certified](https://img.shields.io/badge/GitOps-Certified-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) ![DAW Student](https://img.shields.io/badge/DAW-Student-ffffff?style=flat&labelColor=007396&color=007396&logo=openjdk&logoColor=ffffff) ![Homelab Enthusiast](https://img.shields.io/badge/Homelab-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff)
+
+</div>
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> **Fun Fact**
+
+<div align="center">
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> **Contact Me**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseangelalejosillero-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joseangelalejosillero/) [![Discord](https://img.shields.io/badge/Discord-joseangelalejo-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff)](https://discord.com/users/joseangelalejo) [![Gmail](https://img.shields.io/badge/Gmail-joseangelcorptiv-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=ffffff)](mailto:joseangelcorptiv@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```js
+while (alive) { eat(); liftHeavy(); code(); sleep(); repeat(); }
+```
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="18" height="18" /> From Spain with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="18" height="18" /> | *"It works on my machine"* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" alt="Spouting Whale" width="18" height="18" />
+
+</div>
