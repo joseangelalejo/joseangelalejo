@@ -65,15 +65,15 @@ Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 me
 </tr>
 <tr>
 <td width="150" align="center">
-<img src="https://img.shields.io/badge/PDF%20to%20Markdown-Converter-FF6B6B?style=flat&labelColor=FF6B6B&logo=markdown&logoColor=ffffff" alt="PDF Converter" />
+<img src="https://img.shields.io/badge/JSON%2FCSV-Data%20Visualizer-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=ffffff" alt="Data Visualizer" />
 </td>
 <td>
 
-**PDF to Markdown Converter** — *Herramienta de conversión de documentos*
+**JSON/CSV Data Visualizer** — *Aplicación web de visualización de datos*
 
-Conversor de archivos **PDF** a formato **Markdown** para facilitar la edición y versionado de documentos. Ideal para integrar documentación en repositorios **Git**.
+Aplicación moderna para explorar y visualizar archivos **JSON/CSV** y conexiones a bases de datos (**SQLite**, **PostgreSQL**, **MySQL**, **MongoDB**). Incluye tablas interactivas, gráficos dinámicos, diagramas ER y exportación a CSV. Desplegada con **Docker** y **nginx** para producción, con seguridad avanzada (JWT, rate limiting, headers de seguridad).
 
-![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&labelColor=3776AB&color=3776AB&logo=python&logoColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-ffffff?style=flat&labelColor=000000&color=000000&logo=markdown&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js%2016-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff)
 
 </td>
 </tr>
