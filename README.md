@@ -71,9 +71,9 @@ Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 me
 
 **JSON/CSV Data Visualizer** — *Aplicación web de visualización de datos*
 
-Aplicación moderna para explorar y visualizar archivos **JSON/CSV** y conexiones a bases de datos (**SQLite**, **PostgreSQL**, **MySQL**, **MongoDB**). Incluye tablas interactivas, gráficos dinámicos, diagramas ER y exportación a CSV. Desplegada con **Docker** y **nginx** para producción, con seguridad avanzada (JWT, rate limiting, headers de seguridad).
+Aplicación web moderna y elegante para explorar archivos **JSON/CSV** y conexiones a bases de datos (**SQLite**, **PostgreSQL**, **MySQL**, **MongoDB**). Incluye tablas interactivas, gráficos dinámicos, diagramas ER y exportación a CSV. Interfaz moderna con gradientes vibrantes, diseño responsivo y tema automático. Desplegada con **Docker** y **nginx** para producción, con seguridad avanzada (JWT, rate limiting, headers de seguridad).
 
-![Next.js](https://img.shields.io/badge/-Next.js%2016-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/-Next.js%2016-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000) ![TypeScript](https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff) ![Docker](https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff)
 
 </td>
 </tr>
