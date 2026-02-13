@@ -65,7 +65,7 @@ Sistema backend para recopilar y visualizar estadísticas de jugadores de CS2 me
 </tr>
 <tr>
 <td width="150" align="center">
-<img src="https://img.shields.io/badge/JSON%2FCSV-Data%20Visualizer-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=ffffff" alt="Data Visualizer" />
+<img src="./assets/05_logo_icon_256x256.png" alt="Data Visualizer" width="110" height="80" />
 </td>
 <td>
 
