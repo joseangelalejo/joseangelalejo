@@ -1,4 +1,4 @@
-<img align="left" src="./assets/avatar_final.svg" width="330" height="413" alt="Terminal Avatar">
+<img align="left" src="./assets/avatar.svg" width="350" height="438" alt="Terminal Avatar">
 
 ### Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
@@ -6,7 +6,7 @@
 
 ├── &nbsp;&nbsp; I'm a **Full Stack Developer in Training** from Spain, currently studying **DAW** (Web Application Development) and diving deep into **DevOps & GitOps**.
 
-├── &nbsp;&nbsp; I specialize in building web applications with **Java**, **JavaScript**, and modern databases.
+├── &nbsp;&nbsp; I specialize in building web applications with **JavaScript/TypeScript (Next.js, React)** and modern databases (PostgreSQL, MySQL, MongoDB).
 
 ├── &nbsp;&nbsp; Linux enthusiast running **Linux** as my daily driver and **Proxmox VE** for my homelab.
 
