@@ -125,27 +125,3 @@ Aplicación web para explorar archivos **JSON/CSV** y conectar con servidores de
 </div>
 
 ---
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> **GitHub Metrics**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/metrics.svg" alt="GitHub Metrics" />
-
-*Generated automatically with GitHub Actions workflow.*
-
-</div>
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Snake.png" alt="Snake" width="25" height="25" /> **Contribution Snake**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/joseangelalejo/joseangelalejo/output/github-contribution-grid-snake.gif" alt="Snake animation" />
-
-*Generated automatically with GitHub Actions workflow.*
-
-</div>
-
----
