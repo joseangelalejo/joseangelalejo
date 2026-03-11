@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#bb9af7;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#7aa2f7;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#bb9af7;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#7aa2f7;stop-opacity:0.1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="roundedRect">
+      <rect width="512" height="512" rx="96" ry="96"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" ry="96" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid lines -->
+  <g opacity="0.06" stroke="#7aa2f7" stroke-width="1">
+    <line x1="0" y1="128" x2="512" y2="128"/>
+    <line x1="0" y1="256" x2="512" y2="256"/>
+    <line x1="0" y1="384" x2="512" y2="384"/>
+    <line x1="128" y1="0" x2="128" y2="512"/>
+    <line x1="256" y1="0" x2="256" y2="512"/>
+    <line x1="384" y1="0" x2="384" y2="512"/>
+  </g>
+
+  <!-- Outer decorative ring -->
+  <circle cx="256" cy="256" r="190" fill="none" stroke="url(#ringGrad)" stroke-width="1.5" opacity="0.5"/>
+  <circle cx="256" cy="256" r="165" fill="none" stroke="#7aa2f7" stroke-width="0.8" opacity="0.2"/>
+
+  <!-- Orbit dots on outer ring -->
+  <circle cx="256" cy="66" r="4" fill="#7aa2f7" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="446" cy="256" r="4" fill="#bb9af7" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="256" cy="446" r="4" fill="#7aa2f7" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="66" cy="256" r="4" fill="#bb9af7" opacity="0.8" filter="url(#glow)"/>
+
+  <!-- Diagonal orbit lines -->
+  <circle cx="256" cy="256" r="185" fill="none" stroke="#7aa2f7" stroke-width="0.5" stroke-dasharray="4,12" opacity="0.3"/>
+
+  <!-- Center hub circle glow -->
+  <circle cx="256" cy="256" r="75" fill="#0d1117" stroke="url(#accentGrad)" stroke-width="2" filter="url(#softGlow)" opacity="0.6"/>
+  <circle cx="256" cy="256" r="72" fill="#0f1724" stroke="url(#accentGrad)" stroke-width="1.5"/>
+
+  <!-- Hub icon: stylized "H" with circuit aesthetic -->
+  <!-- Left vertical bar -->
+  <rect x="218" y="218" width="18" height="76" rx="4" fill="url(#accentGrad)" filter="url(#glow)"/>
+  <!-- Right vertical bar -->
+  <rect x="276" y="218" width="18" height="76" rx="4" fill="url(#accentGrad)" filter="url(#glow)"/>
+  <!-- Horizontal crossbar -->
+  <rect x="218" y="248" width="76" height="16" rx="4" fill="url(#accentGrad)" filter="url(#glow)"/>
+
+  <!-- Connector nodes at orbit positions -->
+  <!-- Top node with line to center -->
+  <line x1="256" y1="66" x2="256" y2="184" stroke="#7aa2f7" stroke-width="1" opacity="0.4" stroke-dasharray="3,6"/>
+  <!-- Right node with line to center -->
+  <line x1="446" y1="256" x2="328" y2="256" stroke="#bb9af7" stroke-width="1" opacity="0.4" stroke-dasharray="3,6"/>
+  <!-- Bottom node with line to center -->
+  <line x1="256" y1="446" x2="256" y2="328" stroke="#7aa2f7" stroke-width="1" opacity="0.4" stroke-dasharray="3,6"/>
+  <!-- Left node with line to center -->
+  <line x1="66" y1="256" x2="184" y2="256" stroke="#bb9af7" stroke-width="1" opacity="0.4" stroke-dasharray="3,6"/>
+
+  <!-- Small satellite nodes (45° positions) -->
+  <g filter="url(#glow)">
+    <!-- Top-right -->
+    <circle cx="368" cy="144" r="12" fill="#161b22" stroke="#7aa2f7" stroke-width="1.5"/>
+    <path d="M362 144 L368 138 L374 144 L368 150 Z" fill="#7aa2f7" opacity="0.9"/>
+    <!-- Bottom-right -->
+    <circle cx="368" cy="368" r="12" fill="#161b22" stroke="#bb9af7" stroke-width="1.5"/>
+    <rect x="363" y="363" width="10" height="10" rx="2" fill="#bb9af7" opacity="0.9"/>
+    <!-- Bottom-left -->
+    <circle cx="144" cy="368" r="12" fill="#161b22" stroke="#7aa2f7" stroke-width="1.5"/>
+    <circle cx="144" cy="368" r="4" fill="#7aa2f7" opacity="0.9"/>
+    <!-- Top-left -->
+    <circle cx="144" cy="144" r="12" fill="#161b22" stroke="#bb9af7" stroke-width="1.5"/>
+    <line x1="140" y1="144" x2="148" y2="144" stroke="#bb9af7" stroke-width="2"/>
+    <line x1="144" y1="140" x2="144" y2="148" stroke="#bb9af7" stroke-width="2"/>
+  </g>
+
+  <!-- Diagonal lines from center to satellite nodes -->
+  <line x1="309" y1="203" x2="356" y2="156" stroke="#7aa2f7" stroke-width="1" opacity="0.3" stroke-dasharray="2,5"/>
+  <line x1="309" y1="309" x2="356" y2="356" stroke="#bb9af7" stroke-width="1" opacity="0.3" stroke-dasharray="2,5"/>
+  <line x1="203" y1="309" x2="156" y2="356" stroke="#7aa2f7" stroke-width="1" opacity="0.3" stroke-dasharray="2,5"/>
+  <line x1="203" y1="203" x2="156" y2="156" stroke="#bb9af7" stroke-width="1" opacity="0.3" stroke-dasharray="2,5"/>
+
+  <!-- Bottom label area -->
+  <rect x="160" y="420" width="192" height="28" rx="6" fill="#7aa2f7" opacity="0.08"/>
+  <text x="256" y="440" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" font-weight="600" fill="#7aa2f7" text-anchor="middle" opacity="0.9" letter-spacing="2">HUB PERSONAL</text>
+</svg>
