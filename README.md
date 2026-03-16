@@ -82,7 +82,7 @@ Bot multiplataforma (Discord, Telegram, WhatsApp) construido con **Node.js/TypeS
 <tr>
 <td width="150" align="center">
 <a href="https://github.com/joseangelalejo/examdb-manager" title="ExamDB Manager">
-<img src="https://raw.githubusercontent.com/joseangelalejo/examdb-manager/main/public/assets/logo.png" alt="ExamDB Manager" width="80" height="80" />
+<img src="./assets/01_logo_square_512x512ExamDB.png" alt="ExamDB Manager" width="80" height="80" />
 </a>
 </td>
 <td>
