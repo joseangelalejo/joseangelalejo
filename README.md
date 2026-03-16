@@ -64,7 +64,7 @@ Sistema backend para recopilar, centralizar y visualizar estadísticas de jugado
 <tr>
 <td width="150" align="center">
 <a href="https://github.com/joseangelalejo/yukiko" title="Yukiko Bot">
-<img src="https://raw.githubusercontent.com/joseangelalejo/yukiko/main/docs/assets/yukiko-logo-256.png" alt="Yukiko" width="80" height="80" />
+<img src=".\assets\yukiko-logo-256.png" alt="Yukiko" width="80" height="80" />
 </a>
 </td>
 <td>
