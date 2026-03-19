@@ -35,7 +35,7 @@
 
 ```text
 🎓 Grado Superior DAW           ██████████░░░░░░░░░░░   55% 
-☸️  Kubernetes (LFS158)          ██████░░░░░░░░░░░░░░░░   35%
+☸️  Kubernetes (LFS158)         ██████░░░░░░░░░░░░░░░░   35%
 🚀 DevOps (LFS162)              █████████████░░░░░░░░░░   70%
 🔄 GitOps (LFS169)              ████████████████████████   Completado
 ```
@@ -71,9 +71,9 @@ Sistema backend para recopilar, centralizar y visualizar estadísticas de jugado
 
 **Yukiko** — *Multiplatform Bot & Web Dashboard*
 
-Bot multiplataforma (Discord, Telegram, WhatsApp) construido con **Node.js/TypeScript** en monorepo. Incluye módulos de roleplay con GIFs, economía con niveles y tienda, IA local con **Ollama (llama3.2)** y generación de imágenes con **Pollinations.ai**, moderación y vinculación de cuentas multiplataforma. Panel admin en **Next.js** desplegado en Vercel. Backend con **Neon PostgreSQL** y Drizzle ORM. Desplegado 24/7 en homelab con PM2.
+Bot multiplataforma (Discord, Telegram) con **chat web** incluido (estilo ChatGPT, accesible desde el navegador). Módulos: roleplay con GIFs, economía con niveles y tienda, IA local con **Ollama (llama3.2)** e imágenes con **Pollinations.ai**, moderación y +18 con Gelbooru. Panel admin en **Next.js** desplegado en Vercel. Backend con **Neon PostgreSQL** y Drizzle ORM. Desplegado 24/7 en homelab con PM2.
 
-🔗 **[Web](https://yukiko.vercel.app)** · **[Docs](https://joseangelalejo.github.io/yukiko)** · **[GitHub](https://github.com/joseangelalejo/yukiko)**
+🔗 **[Web](https://yukiko.vercel.app)** · **[Chat](https://yukiko.miniserver.online/chat)** · **[Docs](https://joseangelalejo.github.io/yukiko)** · **[GitHub](https://github.com/joseangelalejo/yukiko)**
 
 <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Node.js-ffffff?style=flat&labelColor=339933&color=339933&logo=node.js&logoColor=ffffff" alt="Node.js"/></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/></a> <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js-ffffff?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker"/></a>
 
