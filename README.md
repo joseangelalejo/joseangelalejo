@@ -71,7 +71,7 @@ Sistema backend para recopilar, centralizar y visualizar estadísticas de jugado
 
 **Yukiko** — *Multiplatform Bot & Web Dashboard*
 
-Bot multiplataforma (Discord, Telegram) con **chat web** incluido (estilo ChatGPT, accesible desde el navegador). Módulos: roleplay con GIFs, economía con niveles y tienda, IA local con **Ollama (llama3.2)** e imágenes con **Pollinations.ai**, moderación y +18 con Gelbooru. Panel admin en **Next.js** desplegado en Vercel. Backend con **Neon PostgreSQL** y Drizzle ORM. Desplegado 24/7 en homelab con PM2.
+Bot multiplataforma (Discord, Telegram, Mobile) con **chat web** incluido (estilo ChatGPT, accesible desde el navegador). Módulos: roleplay con GIFs, economía con niveles y tienda, IA local con **Ollama (llama3.2)** e imágenes con **Pollinations.ai**, moderación y +18 con Gelbooru. Panel admin en **Next.js** desplegado en Vercel. Backend con **Neon PostgreSQL** y Drizzle ORM. Desplegado 24/7 en homelab con PM2.
 
 🔗 **[Web](https://yukiko.vercel.app)** · **[Chat](https://yukiko.miniserver.online/chat)** · **[Docs](https://joseangelalejo.github.io/yukiko)** · **[GitHub](https://github.com/joseangelalejo/yukiko)**
 
