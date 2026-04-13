@@ -34,10 +34,10 @@
 #### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> **Currently Learning**
 
 ```text
-🎓 Grado Superior DAW           ██████████░░░░░░░░░░░   55% 
-☸️  Kubernetes (LFS158)         ██████░░░░░░░░░░░░░░░░   35%
-🚀 DevOps (LFS162)              █████████████░░░░░░░░░░   70%
-🔄 GitOps (LFS169)              ████████████████████████   Completado
+🎓 Grado Superior DAW           ██████████░░░░░░░░░░   55% 
+☸️  Kubernetes (LFS158)         █████░░░░░░░░░░░░░░░   35%
+🚀 DevOps (LFS162)              ███████████░░░░░░░░░   70%
+🔄 GitOps (LFS169)              ████████████████████   Completado
 ```
 
 ---
@@ -64,7 +64,7 @@ Plataforma web de estadísticas para Counter-Strike 2 con **2,904 partidas reale
 <tr>
 <td width="150" align="center">
 <a href="https://github.com/joseangelalejo/yukiko" title="Yukiko Bot">
-<img src=".\assets\yukiko-logo-256.png" alt="Yukiko" width="80" height="80" />
+<img src="./assets/yukiko-logo-256.png" alt="Yukiko" width="80" height="80" />
 </a>
 </td>
 <td>
@@ -117,7 +117,7 @@ Hub personal y portafolio online con diseño moderno, oscuro y totalmente respon
 </tr>
 <tr>
 <td width="150" align="center">
-<a href="https://github.com/joseangelalejo/json-csv-visualizerv1" title="Data Explorer & Web IDE">
+<a href="https://github.com/joseangelalejo/data-visualizer-web-ide" title="Data Explorer & Web IDE">
 <img src="./assets/05_logo_icon_256x256.png" alt="Data Explorer" width="110" height="80" />
 </a>
 </td>
@@ -127,9 +127,9 @@ Hub personal y portafolio online con diseño moderno, oscuro y totalmente respon
 
 Aplicación web full-stack para explorar archivos **JSON/CSV** y conectar con múltiples bases de datos (**SQLite, PostgreSQL, MySQL, MongoDB**). Incluye editor SQL con **Monaco Editor**, visualización de datos en tablas interactivas, generación de gráficos dinámicos, diagramas ER automáticos y exportación a CSV. Desplegada con **Docker + nginx** en producción. Implementa seguridad avanzada: **JWT authentication**, rate limiting, CSP headers, sanitización de inputs.
 
-🔗 **[Live Demo](https://examdb-manager.joseangela.dev)** | **[GitHub](https://github.com/joseangelalejo/json-csv-visualizerv1)** | **[Docs](https://github.com/joseangelalejo/json-csv-visualizerv1/wiki)**
+🔗 **[Live Demo](https://data-visualizer-web-ide.vercel.app)** | **[GitHub](https://github.com/joseangelalejo/data-visualizer-web-ide)** | **[Docs](https://github.com/joseangelalejo/data-visualizer-web-ide/wiki)**
 
-<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2016-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000" alt="React" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" /></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a> <a href="https://nginx.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-nginx-ffffff?style=flat&labelColor=009639&color=009639&logo=nginx&logoColor=ffffff" alt="nginx" /></a>
+<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000" alt="React" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" /></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a> <a href="https://nginx.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-nginx-ffffff?style=flat&labelColor=009639&color=009639&logo=nginx&logoColor=ffffff" alt="nginx" /></a>
 
 </td>
 </tr>
@@ -161,7 +161,7 @@ Servidores de Minecraft desplegados en mi **homelab con Docker**. Incluye servid
 
 Repositorio personal de apuntes, ejemplos de código y documentación trabajada durante el ciclo formativo **DAW (Grado Superior en Desarrollo de Aplicaciones Web)**. Incluye ejercicios de Java, SQL, HTML/CSS, XML, scripts Bash y pequeños proyectos académicos. Estructura organizada por módulos y temas. Recurso útil para repaso y referencia.
 
-🔗 **[GitHub](https://github.com/joseangelalejo/MisApuntesITPDAW)**
+🔗 **[Documentación](https://joseangelalejo.github.io/MisApuntesITPDAW/docs/)** · **[GitHub](https://github.com/joseangelalejo/MisApuntesITPDAW)**
 
 <a href="https://openjdk.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Java-ffffff?style=flat&labelColor=FF0000&color=FF0000&logo=openjdk&logoColor=ffffff" alt="Java" /></a> <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-SQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff" alt="SQL" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-HTML5-ffffff?style=flat&labelColor=E34F26&color=E34F26&logo=html5&logoColor=ffffff" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-CSS3-ffffff?style=flat&labelColor=1572B6&color=1572B6&logo=css3&logoColor=ffffff" alt="CSS3" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Bash-ffffff?style=flat&labelColor=4EAA25&color=4EAA25&logo=gnubash&logoColor=ffffff" alt="Bash" /></a>
 
