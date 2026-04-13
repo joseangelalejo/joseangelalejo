@@ -91,7 +91,7 @@ Bot multiplataforma (Discord, Telegram, Mobile) con **chat web** incluido (estil
 
 Aplicación web full-stack para la generación automática de entornos de examen. Profesores pueden crear bases de datos personalizadas con esquemas y poblaciones de datos, generar automáticamente usuarios y contraseñas para estudiantes, y distribuir credenciales de acceso. Incluye autenticación **JWT**, generador de usuarios basado en **CSV**, tablas **DDL** personalizadas e inserción **DML**. Desplegado con **Docker + nginx**. Base de datos **TiDB Cloud** (MySQL compatible).
 
-🔗 **[GitHub](https://github.com/joseangelalejo/examdb-manager)**
+🔗 **[Live](https://examdbmanager.vercel.app/)** · **[GitHub](https://github.com/joseangelalejo/examdb-manager)**
 
 <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000" alt="React" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" /></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a> <a href="https://nginx.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-nginx-ffffff?style=flat&labelColor=009639&color=009639&logo=nginx&logoColor=ffffff" alt="nginx" /></a>
 
@@ -117,7 +117,7 @@ Hub personal y portafolio online con diseño moderno, oscuro y totalmente respon
 </tr>
 <tr>
 <td width="150" align="center">
-<a href="https://github.com/joseangelalejo/examdb-manager" title="Data Explorer & Web IDE">
+<a href="https://github.com/joseangelalejo/json-csv-visualizerv1" title="Data Explorer & Web IDE">
 <img src="./assets/05_logo_icon_256x256.png" alt="Data Explorer" width="110" height="80" />
 </a>
 </td>
@@ -127,7 +127,7 @@ Hub personal y portafolio online con diseño moderno, oscuro y totalmente respon
 
 Aplicación web full-stack para explorar archivos **JSON/CSV** y conectar con múltiples bases de datos (**SQLite, PostgreSQL, MySQL, MongoDB**). Incluye editor SQL con **Monaco Editor**, visualización de datos en tablas interactivas, generación de gráficos dinámicos, diagramas ER automáticos y exportación a CSV. Desplegada con **Docker + nginx** en producción. Implementa seguridad avanzada: **JWT authentication**, rate limiting, CSP headers, sanitización de inputs.
 
-🔗 **[Live Demo](https://examdb-manager.joseangela.dev)** | **[GitHub](https://github.com/joseangelalejo/examdb-manager)** | **[Docs](https://github.com/joseangelalejo/examdb-manager/wiki)**
+🔗 **[Live Demo](https://examdb-manager.joseangela.dev)** | **[GitHub](https://github.com/joseangelalejo/json-csv-visualizerv1)** | **[Docs](https://github.com/joseangelalejo/json-csv-visualizerv1/wiki)**
 
 <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2016-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000" alt="React" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" /></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a> <a href="https://nginx.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-nginx-ffffff?style=flat&labelColor=009639&color=009639&logo=nginx&logoColor=ffffff" alt="nginx" /></a>
 
