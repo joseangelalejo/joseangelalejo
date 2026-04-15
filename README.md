@@ -47,6 +47,24 @@
 <table>
 <tr>
 <td width="100" align="center">
+<a href="https://github.com/joseangelalejo/AutomatArch" title="AutomatArch Bot">
+<img src="./assets/automatarch-icon-color.png" alt="AutomatArch" width="80" height="80" />
+</a>
+</td>
+<td>
+
+**[AutomatArch](https://automatarch.miniserver.online)** — *Discord Bot para Automatización de Arch Linux*
+
+Bot Discord que permite ejecutar y gestionar scripts de Arch Linux directamente desde Discord. Combina **Python 3.10+** para el bot backend con **Next.js 15 + TypeScript** para el setup wizard interactivo. Incluye sistema de permisos v2.0 con audit logging, autenticación por contraseña, notificaciones Telegram, y verificación de roles con Discord. El wizard web está desplegado en Vercel con framework detection automático. Excelente ejemplo de integración Discord + infraestructura Arch.
+
+🔗 **[Live Setup](https://automatarch.miniserver.online)** · **[GitHub](https://github.com/joseangelalejo/AutomatArch)** · **[Troubleshooting](https://github.com/joseangelalejo/AutomatArch/blob/dev/VERCEL_TROUBLESHOOTING.md)**
+
+<a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Python%203.10+-3776AB?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff" alt="Python" /></a> <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015-ffffff?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://discord.py" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-discord.py-ffffff?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff" alt="discord.py" /></a> <a href="https://vercel.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Vercel-ffffff?style=flat&labelColor=000000&logo=vercel&logoColor=ffffff" alt="Vercel" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
 <img src="./assets/01_logo_square_512x512.png" alt="Counter-Strike 2" width="80" height="80" />
 </td>
 <td>
