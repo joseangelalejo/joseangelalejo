@@ -53,11 +53,11 @@
 </td>
 <td>
 
-**[AutomatArch](https://automatarch.miniserver.online)** — *Discord Bot para Automatización de Arch Linux*
+**[AutomatArch](https://automatarch.joseangelinfra.dev)** — *Discord Bot para Automatización de Arch Linux*
 
 Bot Discord que permite ejecutar y gestionar scripts de Arch Linux directamente desde Discord. Combina **Python 3.10+** para el bot backend con **Next.js 15 + TypeScript** para el setup wizard interactivo. Incluye sistema de permisos v2.0 con audit logging, autenticación por contraseña, notificaciones Telegram, y verificación de roles con Discord. El wizard web está desplegado en Vercel con framework detection automático. Excelente ejemplo de integración Discord + infraestructura Arch.
 
-🔗 **[Live Setup](https://automatarch.miniserver.online)** · **[GitHub](https://github.com/joseangelalejo/AutomatArch)** · **[Troubleshooting](https://github.com/joseangelalejo/AutomatArch/blob/dev/VERCEL_TROUBLESHOOTING.md)**
+🔗 **[Live Setup](https://automatarch.joseangelinfra.dev)** · **[GitHub](https://github.com/joseangelalejo/AutomatArch)** · **[Troubleshooting](https://github.com/joseangelalejo/AutomatArch/blob/dev/VERCEL_TROUBLESHOOTING.md)**
 
 <a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Python%203.10+-3776AB?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff" alt="Python" /></a> <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015-ffffff?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://discord.py" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-discord.py-ffffff?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff" alt="discord.py" /></a> <a href="https://vercel.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Vercel-ffffff?style=flat&labelColor=000000&logo=vercel&logoColor=ffffff" alt="Vercel" /></a>
 
@@ -69,11 +69,11 @@ Bot Discord que permite ejecutar y gestionar scripts de Arch Linux directamente 
 </td>
 <td>
 
-**[Fragify](https://fragify.miniserver.online)** — *CS2 Stats Platform* · [fragify.miniserver.online](https://fragify.miniserver.online)
+**[Fragify](https://fragify.joseangelinfra.dev)** — *CS2 Stats Platform* · [fragify.joseangelinfra.dev](https://fragify.joseangelinfra.dev)
 
 Plataforma web de estadísticas para Counter-Strike 2 con **2,904 partidas reales importadas** desde Steam. Perfiles de jugador con K/D, HS% y win rate calculados directamente desde la base de datos. Leaderboards Premier y Competitive, filtro por modo (5v5/2v2), bot Telegram con webhook, auth Steam OpenID + email/password y panel de administración. Proyecto académico **E1/E2/E3 con notas 10/10/9.5**.
 
-🔗 **[GitHub](https://github.com/joseangelalejo/Fragify_CS2SVSS)** · **[Live](https://fragify.miniserver.online)**
+🔗 **[GitHub](https://github.com/joseangelalejo/Fragify_CS2SVSS)** · **[Live](https://fragify.joseangelinfra.dev)**
 
 <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015.5-ffffff?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tidbcloud.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TiDB%20Cloud-ffffff?style=flat&labelColor=E57000&color=E57000" alt="TiDB" /></a> <a href="https://vercel.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Vercel-ffffff?style=flat&labelColor=000000&logo=vercel&logoColor=ffffff" alt="Vercel" /></a> <a href="https://www.proxmox.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Proxmox%20VE-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff" alt="Proxmox" /></a>
 
@@ -109,7 +109,7 @@ Bot multiplataforma (Discord, Telegram, Mobile) con **chat web** incluido (estil
 
 Aplicación web full-stack para la generación automática de entornos de examen. Profesores pueden crear bases de datos personalizadas con esquemas y poblaciones de datos, generar automáticamente usuarios y contraseñas para estudiantes, y distribuir credenciales de acceso. Incluye autenticación **JWT**, generador de usuarios basado en **CSV**, tablas **DDL** personalizadas e inserción **DML**. Desplegado con **Docker + nginx**. Base de datos **TiDB Cloud** (MySQL compatible).
 
-🔗 **[Live](https://examdbmanager.vercel.app/)** · **[GitHub](https://github.com/joseangelalejo/examdb-manager)**
+🔗 **[Live](https://examdb-manager.joseangelinfra.dev)** · **[GitHub](https://github.com/joseangelalejo/examdb-manager)**
 
 <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000" alt="React" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" /></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a> <a href="https://nginx.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-nginx-ffffff?style=flat&labelColor=009639&color=009639&logo=nginx&logoColor=ffffff" alt="nginx" /></a>
 
