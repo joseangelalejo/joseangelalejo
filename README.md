@@ -35,8 +35,8 @@
 
 ```text
 🎓 Grado Superior DAW           ██████████░░░░░░░░░░   55% 
-☸️  Kubernetes (LFS158)         █████░░░░░░░░░░░░░░░   35%
-🚀 DevOps (LFS162)              ███████████░░░░░░░░░   70%
+☸️  Kubernetes (LFS158)         ███████████░░░░░░░░░   75%
+🚀 DevOps (LFS162)              ████████████████████   Completado
 🔄 GitOps (LFS169)              ████████████████████   Completado
 ```
 
