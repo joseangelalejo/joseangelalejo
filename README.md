@@ -1,232 +1,204 @@
 <img align="left" src="./assets/avatar.svg" width="350" height="438" alt="Terminal Avatar">
 
-### Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
+### Hey!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer+in+Training;DAW+Student+%7C+Spain+🇪🇸;DevOps+%26+GitOps+Enthusiast;Linux+Enthusiast+🐧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&vCenter=true&random=false&width=435&lines=Full-Stack+Developer+%2B+DevSecOps;DAW+Student+%7C+Seville,+Spain;Homelab+%26+GitOps+Enthusiast;Linux+Enthusiast)](https://git.io/typing-svg)
 
-├── &nbsp;&nbsp; I'm a **Full Stack Developer in Training** from Spain, currently studying **DAW** (Web Application Development) and diving deep into **DevOps & GitOps**.
+├── &nbsp;&nbsp; I'm **José Ángel**, a **Full-Stack developer in training** from Seville, in my second year of **DAW** and aiming at **DevOps / DevSecOps**.
 
-├── &nbsp;&nbsp; I specialize in building web applications with **JavaScript/TypeScript (Next.js, React)** and modern databases (PostgreSQL, MySQL, MongoDB).
+├── &nbsp;&nbsp; I build web apps with **TypeScript, Next.js and React** on PostgreSQL / MySQL, and ship them with **Docker, nginx and GitHub Actions**.
 
-├── &nbsp;&nbsp; Linux enthusiast running **Linux** as my daily driver and **Proxmox VE** for my homelab.
+├── &nbsp;&nbsp; I run a self-hosted **homelab** on **Proxmox VE**: Docker, Headscale, n8n, Immich and local AI with Ollama, exposed through Cloudflare Tunnel.
 
-└── &nbsp;&nbsp; 2026 Goals: Learn **Kubernetes**, **Terraform & Ansible**, contribute to Open Source and deepen **DevOps expertise**.
+└── &nbsp;&nbsp; Next: **Kubernetes, Terraform and Ansible**, an internship in DevSecOps / cybersecurity, and more open source.
 
-[![GitHub](https://img.shields.io/badge/GitHub-joseangelalejo-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff)](https://github.com/joseangelalejo) [![Visits](https://komarev.com/ghpvc/?username=joseangelalejo&style=flat&color=7aa2f7&label=visits&abbreviated=true)](https://github.com/joseangelalejo) [![Linux](https://img.shields.io/badge/Linux-Enthusiast-FCC624?style=flat&labelColor=FCC624&logo=linux&logoColor=000000)](https://www.linux.org/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.joseangelinfra.dev-7AA2F7?style=flat&labelColor=7AA2F7&logo=vercel&logoColor=000000)](https://portfolio.joseangelinfra.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-joseangelalejosillero-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joseangelalejosillero/) [![Email](https://img.shields.io/badge/Email-joseangelcorptiv@gmail.com-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=ffffff)](mailto:joseangelcorptiv@gmail.com)
 
 <br clear="left"/>
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> **Tech Stack**
+#### **Tech Stack**
 
-| Category                   | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**              | <a href="https://openjdk.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Java-ffffff?style=flat&labelColor=FF0000&color=FF0000&logo=openjdk&logoColor=ffffff" alt="Java"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-JavaScript-ffffff?style=flat&labelColor=F7DF1E&color=F7DF1E&logo=javascript&logoColor=000000" alt="JavaScript"/></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-HTML5-ffffff?style=flat&labelColor=E34F26&color=E34F26&logo=html5&logoColor=ffffff" alt="HTML5"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-CSS3-ffffff?style=flat&labelColor=1572B6&color=1572B6&logo=css3&logoColor=ffffff" alt="CSS3"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Frameworks & Libraries** | <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js-ffffff?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js"/></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React-ffffff?style=flat&labelColor=61DAFB&logo=react&logoColor=000000" alt="React"/></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS"/></a> <a href="https://recharts.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Recharts-ffffff?style=flat&labelColor=7AA2F7" alt="Recharts"/></a> <a href="https://tanstack.com/table/v8" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TanStack%20Table-ffffff?style=flat&labelColor=6f42c1" alt="TanStack Table"/></a> <a href="https://microsoft.github.io/monaco-editor/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Monaco%20Editor-ffffff?style=flat&labelColor=2b6cb0" alt="Monaco Editor"/></a> <a href="https://d3js.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-D3-ffffff?style=flat&labelColor=f0932b" alt="D3"/></a> <a href="https://www.papaparse.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-PapaParse-ffffff?style=flat&labelColor=ff6b6b" alt="PapaParse"/></a> <a href="https://github.com/taozhi8833998/node-sql-parser" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-SQL%20Parser-ffffff?style=flat&labelColor=4caf50" alt="node-sql-parser"/></a> |
-| **Databases**              | <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-MySQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff" alt="MySQL"/></a> <a href="https://mariadb.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-MariaDB-ffffff?style=flat&labelColor=003545&color=003545&logo=mariadb&logoColor=ffffff" alt="MariaDB"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/></a> <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-MongoDB-ffffff?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff" alt="MongoDB"/></a> <a href="https://www.sqlite.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-SQLite-ffffff?style=flat&labelColor=003B57&logo=sqlite&logoColor=ffffff" alt="SQLite"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Tools & IDEs**           | <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-VS%20Code-ffffff?style=flat&labelColor=007ACC&color=007ACC&logo=visualstudiocode&logoColor=ffffff" alt="VS Code"/></a> <a href="https://netbeans.apache.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-NetBeans-ffffff?style=flat&labelColor=1B6AC6&color=1B6AC6&logo=apachenetbeanside&logoColor=ffffff" alt="NetBeans"/></a> <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Git-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff" alt="Git"/></a> <a href="https://github.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitHub-ffffff?style=flat&labelColor=181717&color=181717&logo=github&logoColor=ffffff" alt="GitHub"/></a> <a href="https://maven.apache.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Maven-ffffff?style=flat&labelColor=C71A36&color=C71A36&logo=apachemaven&logoColor=ffffff" alt="Maven"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| **Operating Systems**      | <a href="https://www.linux.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Linux-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000" alt="Linux"/></a> <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Windows-ffffff?style=flat&labelColor=0078D4&color=0078D4&logo=windows&logoColor=ffffff" alt="Windows"/></a> <a href="https://www.proxmox.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff" alt="Proxmox"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| **DevOps & Containers**    | <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker"/></a> <a href="https://nginx.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-nginx-ffffff?style=flat&labelColor=009639&logo=nginx&logoColor=ffffff" alt="nginx"/></a> <a href="https://www.gitops.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-GitOps-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff" alt="GitOps"/></a>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Level                 | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use daily**         | <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/> <img src="https://img.shields.io/badge/-SQL-06D6A0?style=flat&labelColor=06D6A0" alt="SQL"/> <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&labelColor=4EAA25&logo=gnubash&logoColor=ffffff" alt="Bash"/> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=ffffff" alt="React"/> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js"/> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&labelColor=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-MySQL%20/%20MariaDB-4479A1?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff" alt="MySQL / MariaDB"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&labelColor=2496ED&logo=docker&logoColor=ffffff" alt="Docker"/> <img src="https://img.shields.io/badge/-Git%20&%20GitHub-181717?style=flat&labelColor=181717&logo=github&logoColor=ffffff" alt="Git & GitHub"/> <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&labelColor=2088FF&logo=githubactions&logoColor=ffffff" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/-GitOps-F05032?style=flat&labelColor=F05032&logo=git&logoColor=ffffff" alt="GitOps"/> <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&labelColor=FCC624&logo=linux&logoColor=ffffff" alt="Linux"/> |
+| **Working knowledge** | <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff" alt="Python"/> <img src="https://img.shields.io/badge/-Java-F59E0B?style=flat&labelColor=F59E0B&logo=openjdk&logoColor=ffffff" alt="Java"/> <img src="https://img.shields.io/badge/-Discord.js-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff" alt="Discord.js"/> <img src="https://img.shields.io/badge/-nginx-009639?style=flat&labelColor=009639&logo=nginx&logoColor=ffffff" alt="nginx"/> <img src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&labelColor=E57000&logo=proxmox&logoColor=ffffff" alt="Proxmox"/> <img src="https://img.shields.io/badge/-PM2-2B037A?style=flat&labelColor=2B037A&logo=pm2&logoColor=ffffff" alt="PM2"/> <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&labelColor=2EAD33&logo=playwright&logoColor=ffffff" alt="Playwright"/> <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&labelColor=C21325&logo=jest&logoColor=ffffff" alt="Jest"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Learning**          | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=ffffff" alt="JavaScript"/> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&labelColor=339933&logo=node.js&logoColor=ffffff" alt="Node.js"/> <img src="https://img.shields.io/badge/-Express-000000?style=flat&labelColor=000000&logo=express&logoColor=ffffff" alt="Express"/> <img src="https://img.shields.io/badge/-Drizzle%20ORM-C5B358?style=flat&labelColor=C5B358&logo=drizzle&logoColor=ffffff" alt="Drizzle ORM"/> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&labelColor=777BB4&logo=php&logoColor=ffffff" alt="PHP"/> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff" alt="MongoDB"/> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&labelColor=326CE5&logo=kubernetes&logoColor=ffffff" alt="Kubernetes"/> <img src="https://img.shields.io/badge/-Terraform-844FEC?style=flat&labelColor=844FEC&logo=terraform&logoColor=ffffff" alt="Terraform"/> <img src="https://img.shields.io/badge/-Ansible-EE0000?style=flat&labelColor=EE0000&logo=ansible&logoColor=ffffff" alt="Ansible"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> **Currently Learning**
+#### **Homelab**
 
 ```text
-🎓 Grado Superior DAW           ██████████░░░░░░░░░░   55% 
-☸️  Kubernetes (LFS158)         ███████████░░░░░░░░░   75%
-🚀 DevOps (LFS162)              ████████████████████   Completado
-🔄 GitOps (LFS169)              ████████████████████   Completado
+Cloudflare Tunnel ─┐
+Nginx ─────────────┤
+Headscale ─────────┼──▶  Proxmox VE  ──▶  Docker · n8n · Immich · Ollama (Tars)
 ```
+
+A Proxmox VE host with the services I actually use and maintain: public apps behind **Cloudflare Tunnel** and **nginx**, private access over **Headscale**, automation with **n8n**, photos with **Immich** and a local assistant with **Ollama**. I also host Minecraft servers there (Vanilla and Forge, with Docker), and several of my projects below run there.
 
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Featured Projects**
+#### **Currently Learning**
+
+- **DAW** — second year at IES Hermanos Machado (2026–2027)
+- **Kubernetes** — continuing from the Linux Foundation course (LFS158)
+- **Cybersecurity** — self-study roadmap toward SOC / SOAR
+- **Done:** DevOps (LFS162) and GitOps (LFS169)
+
+---
+
+#### **Featured Projects**
 
 <table>
 <tr>
 <td width="100" align="center">
-<a href="https://github.com/joseangelalejo/AutomatArch" title="AutomatArch Bot">
-<img src="./assets/automatarch-icon-color.png" alt="AutomatArch" width="80" height="80" />
-</a>
+<img src="./assets/01_logo_square_512x512.png" alt="[Fragify](https://fragify.joseangelinfra.dev)" width="80" height="80" />
 </td>
 <td>
 
-**[AutomatArch](https://automatarch.joseangelinfra.dev)** — *Discord Bot para Automatización de Arch Linux*
+**[Fragify](https://fragify.joseangelinfra.dev)** — *CS2 stats platform*
 
-Bot Discord que permite ejecutar y gestionar scripts de Arch Linux directamente desde Discord. Combina **Python 3.10+** para el bot backend con **Next.js 15 + TypeScript** para el setup wizard interactivo. Incluye sistema de permisos v2.0 con audit logging, autenticación por contraseña, notificaciones Telegram, y verificación de roles con Discord. El wizard web está desplegado en Vercel con framework detection automático. Excelente ejemplo de integración Discord + infraestructura Arch.
+Stats for Counter-Strike 2 built from **2,904 real matches** imported from Steam: K/D, HS% and win rate computed in SQL, Premier and Competitive leaderboards, Steam OpenID login, Telegram bot and an admin panel.
 
-🔗 **[Live Setup](https://automatarch.joseangelinfra.dev)** · **[GitHub](https://github.com/joseangelalejo/AutomatArch)** · **[Troubleshooting](https://github.com/joseangelalejo/AutomatArch/blob/dev/VERCEL_TROUBLESHOOTING.md)**
+**[Live](https://fragify.joseangelinfra.dev)** · **[GitHub](https://github.com/joseangelalejo/Fragify_CS2SVSS)**
 
-<a href="https://www.python.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Python%203.10+-3776AB?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff" alt="Python" /></a> <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015-ffffff?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://discord.py" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-discord.py-ffffff?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff" alt="discord.py" /></a> <a href="https://vercel.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Vercel-ffffff?style=flat&labelColor=000000&logo=vercel&logoColor=ffffff" alt="Vercel" /></a>
+<img src="https://img.shields.io/badge/-Next.js%2015-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js 15"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/> <img src="https://img.shields.io/badge/-TiDB%20Cloud-E57000?style=flat&labelColor=E57000" alt="TiDB Cloud"/> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&labelColor=000000&logo=vercel&logoColor=ffffff" alt="Vercel"/>
 
 </td>
 </tr>
 <tr>
 <td width="100" align="center">
-<img src="./assets/01_logo_square_512x512.png" alt="Counter-Strike 2" width="80" height="80" />
-</td>
-<td>
-
-**[Fragify](https://fragify.joseangelinfra.dev)** — *CS2 Stats Platform* · [fragify.joseangelinfra.dev](https://fragify.joseangelinfra.dev)
-
-Plataforma web de estadísticas para Counter-Strike 2 con **2,904 partidas reales importadas** desde Steam. Perfiles de jugador con K/D, HS% y win rate calculados directamente desde la base de datos. Leaderboards Premier y Competitive, filtro por modo (5v5/2v2), bot Telegram con webhook, auth Steam OpenID + email/password y panel de administración. Proyecto académico **E1/E2/E3 con notas 10/10/9.5**.
-
-🔗 **[GitHub](https://github.com/joseangelalejo/Fragify_CS2SVSS)** · **[Live](https://fragify.joseangelinfra.dev)**
-
-<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015.5-ffffff?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tidbcloud.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TiDB%20Cloud-ffffff?style=flat&labelColor=E57000&color=E57000" alt="TiDB" /></a> <a href="https://vercel.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Vercel-ffffff?style=flat&labelColor=000000&logo=vercel&logoColor=ffffff" alt="Vercel" /></a> <a href="https://www.proxmox.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Proxmox%20VE-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff" alt="Proxmox" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="150" align="center">
-<a href="https://github.com/joseangelalejo/yukiko" title="Yukiko Bot">
 <img src="./assets/yukiko-logo-256.png" alt="Yukiko" width="80" height="80" />
-</a>
 </td>
 <td>
 
-**Yukiko** — *Multiplatform Bot & Web Dashboard*
+**Yukiko** — *Multiplatform bot & web dashboard*
 
-Bot multiplataforma (Discord, Telegram, Mobile) con **chat web** incluido (estilo ChatGPT, accesible desde el navegador). Módulos: roleplay con GIFs, economía con niveles y tienda, IA local con **Ollama (llama3.2)** e imágenes con **Pollinations.ai**, moderación y +18 con Gelbooru. Panel admin en **Next.js** desplegado en Vercel. Backend con **Neon PostgreSQL** y Drizzle ORM. Desplegado 24/7 en homelab con PM2.
+One monorepo, three platforms (Discord, Telegram, mobile over WebSocket) with a browser chat, local AI through **Ollama**, economy and moderation. Admin panel on Vercel, **Neon PostgreSQL + Drizzle ORM**, running 24/7 on my homelab with PM2.
 
-🔗 **[Web](https://yukiko.vercel.app)** · **[Chat](https://yukiko.miniserver.online/chat)** · **[Docs](https://joseangelalejo.github.io/yukiko)** · **[GitHub](https://github.com/joseangelalejo/yukiko)**
+**[Web](https://yukiko.vercel.app)** · **[Docs](https://joseangelalejo.github.io/yukiko)** · **[GitHub](https://github.com/joseangelalejo/yukiko)**
 
-<a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Node.js-ffffff?style=flat&labelColor=339933&color=339933&logo=node.js&logoColor=ffffff" alt="Node.js"/></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/></a> <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js-ffffff?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker"/></a>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&labelColor=339933&logo=node.js&logoColor=ffffff" alt="Node.js"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js"/> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&labelColor=336791&logo=postgresql&logoColor=ffffff" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&labelColor=2496ED&logo=docker&logoColor=ffffff" alt="Docker"/>
 
 </td>
 </tr>
 <tr>
-<td width="150" align="center">
-<a href="https://github.com/joseangelalejo/examdb-manager" title="ExamDB Manager">
+<td width="100" align="center">
 <img src="./assets/01_logo_square_512x512ExamDB.png" alt="ExamDB Manager" width="80" height="80" />
-</a>
 </td>
 <td>
 
-**ExamDB Manager** — *Exam Environment Generator*
+**ExamDB Manager** — *Exam environment generator*
 
-Aplicación web full-stack para la generación automática de entornos de examen. Profesores pueden crear bases de datos personalizadas con esquemas y poblaciones de datos, generar automáticamente usuarios y contraseñas para estudiantes, y distribuir credenciales de acceso. Incluye autenticación **JWT**, generador de usuarios basado en **CSV**, tablas **DDL** personalizadas e inserción **DML**. Desplegado con **Docker + nginx**. Base de datos **TiDB Cloud** (MySQL compatible).
+Teachers create databases for an exam, generate student users and credentials from a CSV, and hand them out. JWT auth, DDL/DML tooling, TiDB Cloud, **Docker + nginx**, with **Playwright** E2E tests and CI on GitHub Actions.
 
-🔗 **[Live](https://examdb-manager.joseangelinfra.dev)** · **[GitHub](https://github.com/joseangelalejo/examdb-manager)**
+**[Live](https://examdb-manager.joseangelinfra.dev)** · **[GitHub](https://github.com/joseangelalejo/examdb-manager)**
 
-<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000" alt="React" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" /></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a> <a href="https://nginx.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-nginx-ffffff?style=flat&labelColor=009639&color=009639&logo=nginx&logoColor=ffffff" alt="nginx" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="150" align="center">
-<a href="https://github.com/joseangelalejo/joseangel-hub" title="Personal Hub">
-<img src="./assets/icon-hub-personal.svg" alt="Hub Personal" width="110" height="80" />
-</a>
-</td>
-<td>
-
-**Hub Personal** — *Portfolio & Profile Hub*
-
-Hub personal y portafolio online con diseño moderno, oscuro y totalmente responsivo. Construido con **Next.js 14**, **TailwindCSS** y **TypeScript**. Incluye sección About Me dinámica, galería de proyectos, CV online interactivo, sección de skills con barras animadas, y formulario de contacto. Optimizado para SEO, rendimiento y deployado en **Docker** + **Vercel**.
-
-🔗 **[Live](https://joseangelhub.miniserver.online)** · **[Vercel](https://joseangel-hub.vercel.app)** · **[GitHub](https://github.com/joseangelalejo/joseangel-hub)**
-
-<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2014-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000" alt="React" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" /></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="150" align="center">
-<a href="https://github.com/joseangelalejo/data-visualizer-web-ide" title="Data Explorer & Web IDE">
-<img src="./assets/05_logo_icon_256x256.png" alt="Data Explorer" width="110" height="80" />
-</a>
-</td>
-<td>
-
-**Data Explorer & Web IDE** — *Full-Stack Data Management Platform*
-
-Aplicación web full-stack para explorar archivos **JSON/CSV** y conectar con múltiples bases de datos (**SQLite, PostgreSQL, MySQL, MongoDB**). Incluye editor SQL con **Monaco Editor**, visualización de datos en tablas interactivas, generación de gráficos dinámicos, diagramas ER automáticos y exportación a CSV. Desplegada con **Docker + nginx** en producción. Implementa seguridad avanzada: **JWT authentication**, rate limiting, CSP headers, sanitización de inputs.
-
-🔗 **[Live Demo](https://data-visualizer-web-ide.vercel.app)** | **[GitHub](https://github.com/joseangelalejo/data-visualizer-web-ide)** | **[Docs](https://github.com/joseangelalejo/data-visualizer-web-ide/wiki)**
-
-<a href="https://nextjs.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Next.js%2015-ffffff?style=flat&labelColor=000000&color=000000&logo=next.js&logoColor=ffffff" alt="Next.js" /></a> <a href="https://react.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-React%2019-ffffff?style=flat&labelColor=61DAFB&color=61DAFB&logo=react&logoColor=000000" alt="React" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-TypeScript-ffffff?style=flat&labelColor=3178C6&color=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript" /></a> <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Tailwind%20CSS-ffffff?style=flat&labelColor=38B2AC&color=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS" /></a> <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a> <a href="https://nginx.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-nginx-ffffff?style=flat&labelColor=009639&color=009639&logo=nginx&logoColor=ffffff" alt="nginx" /></a>
+<img src="https://img.shields.io/badge/-Next.js%2015-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js 15"/> <img src="https://img.shields.io/badge/-React%2019-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=ffffff" alt="React 19"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/> <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&labelColor=2EAD33&logo=playwright&logoColor=ffffff" alt="Playwright"/> <img src="https://img.shields.io/badge/-nginx-009639?style=flat&labelColor=009639&logo=nginx&logoColor=ffffff" alt="nginx"/>
 
 </td>
 </tr>
 <tr>
 <td width="100" align="center">
-<img src="./assets/MiniatureDiscordSRV.png" alt="Minecraft Servers" width="80" height="80" />
+<img src="./assets/05_logo_icon_256x256.png" alt="Data Explorer & Web IDE" width="80" height="80" />
 </td>
 <td>
 
-**Minecraft Servers (HomeLab)** — *Docker-based Game Infrastructure*
+**Data Explorer & Web IDE** — *Data management platform*
 
-Servidores de Minecraft desplegados en mi **homelab con Docker**. Incluye servidor **Vanilla** (versión estándar) y servidor **Forge** (con mods). Ambos configurados con persistencia de datos, backups automáticos, monitoreo y gestión de recursos optimizada. Demuestran experiencia en **containerización**, **orquestación Docker**, **infraestructura como código** y **DevOps en entornos de producción personal**.
+Explore **JSON/CSV** files and connect to **SQLite, PostgreSQL, MySQL and MongoDB**. SQL editor with **Monaco**, interactive tables, dynamic charts, automatic ER diagrams and CSV export. JWT authentication, rate limiting, CSP headers and input sanitisation, deployed with **Docker + nginx**.
 
-🔗 **[Vanilla](https://github.com/joseangelalejo/itzg-minecraft-server)** | **[Forge](https://github.com/joseangelalejo/itzg-minecraft-server-forge)**
+**[Live demo](https://data-visualizer-web-ide.vercel.app)** · **[GitHub](https://github.com/joseangelalejo/data-visualizer-web-ide)** · **[Docs](https://github.com/joseangelalejo/data-visualizer-web-ide/wiki)**
 
-<a href="https://www.docker.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker" /></a> <a href="https://docs.docker.com/compose/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Docker%20Compose-ffffff?style=flat&labelColor=2496ED&color=2496ED&logo=docker&logoColor=ffffff" alt="Docker Compose" /></a> <a href="https://www.linux.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Linux-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000" alt="Linux" /></a> <a href="https://www.proxmox.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Proxmox%20VE-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff" alt="Proxmox" /></a>
+<img src="https://img.shields.io/badge/-Next.js%2015-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js 15"/> <img src="https://img.shields.io/badge/-React%2019-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=000000" alt="React 19"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&labelColor=2496ED&logo=docker&logoColor=ffffff" alt="Docker"/> <img src="https://img.shields.io/badge/-nginx-009639?style=flat&labelColor=009639&logo=nginx&logoColor=ffffff" alt="nginx"/>
 
 </td>
 </tr>
 <tr>
 <td width="100" align="center">
-<a href="https://github.com/joseangelalejo/MisApuntesITPDAW" title="DAW Study Notes">
-<img src="./assets/icon-misapuntesitpdaw.svg" alt="MisApuntesITPDAW" width="80" height="80" />
-</a>
+<img src="./assets/miniportal-logo.png" alt="MiniPortal" width="80" height="80" />
 </td>
 <td>
 
-**MisApuntesITPDAW** — *DAW Study & Reference Repository*
+**MiniPortal** — *Private software distribution platform*
 
-Repositorio personal de apuntes, ejemplos de código y documentación trabajada durante el ciclo formativo **DAW (Grado Superior en Desarrollo de Aplicaciones Web)**. Incluye ejercicios de Java, SQL, HTML/CSS, XML, scripts Bash y pequeños proyectos académicos. Estructura organizada por módulos y temas. Recurso útil para repaso y referencia.
+Platform for distributing software and controlling licences, focused on security and access management. Python desktop launcher with DRM protection, TOTP licence checks and active-session tracking, plus a honeypot: a **Flask** analyser that redirects suspicious traffic, role-based access control and Telegram alerts.
 
-🔗 **[Documentación](https://joseangelalejo.github.io/MisApuntesITPDAW/docs/)** · **[GitHub](https://github.com/joseangelalejo/MisApuntesITPDAW)**
 
-<a href="https://openjdk.org" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Java-ffffff?style=flat&labelColor=FF0000&color=FF0000&logo=openjdk&logoColor=ffffff" alt="Java" /></a> <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-SQL-ffffff?style=flat&labelColor=4479A1&color=4479A1&logo=mysql&logoColor=ffffff" alt="SQL" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-HTML5-ffffff?style=flat&labelColor=E34F26&color=E34F26&logo=html5&logoColor=ffffff" alt="HTML5" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-CSS3-ffffff?style=flat&labelColor=1572B6&color=1572B6&logo=css3&logoColor=ffffff" alt="CSS3" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Bash-ffffff?style=flat&labelColor=4EAA25&color=4EAA25&logo=gnubash&logoColor=ffffff" alt="Bash" /></a>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff" alt="Python"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&labelColor=000000&logo=flask&logoColor=ffffff" alt="Flask"/> <img src="https://img.shields.io/badge/-Next.js%2015-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js 15"/> <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&labelColor=003B57&logo=sqlite&logoColor=ffffff" alt="SQLite"/>
+
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
+<img src="./assets/for-honor-hispano.png" alt="For Honor Hispano" width="80" height="80" />
+</td>
+<td>
+
+**[For Honor Hispano](https://forhonorhispano.com)** — *Community website*
+
+Website of the For Honor Hispano community, built with **Next.js**. I develop it and run it day to day.
+
+**[Live](https://forhonorhispano.com)**
+
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/>
+
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
+<img src="./assets/automatarch-icon-color.png" alt="[AutomatArch](https://automatarch.joseangelinfra.dev)" width="80" height="80" />
+</td>
+<td>
+
+**[AutomatArch](https://automatarch.joseangelinfra.dev)** — *Discord bot for Arch Linux automation*
+
+Run and manage Arch Linux scripts from Discord, with role-based permissions, audit logging, password auth and Telegram notifications. Python bot plus a **Next.js** setup wizard on Vercel.
+
+**[Live setup](https://automatarch.joseangelinfra.dev)** · **[GitHub](https://github.com/joseangelalejo/AutomatArch)**
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&labelColor=3776AB&logo=python&logoColor=ffffff" alt="Python"/> <img src="https://img.shields.io/badge/-Next.js%2015-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js 15"/> <img src="https://img.shields.io/badge/-discord.py-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff" alt="discord.py"/>
+
+</td>
+</tr>
+<tr>
+<td width="100" align="center">
+<img src="./assets/icon-hub-personal.svg" alt="[Portfolio](https://portfolio.joseangelinfra.dev)" width="110" height="80" />
+</td>
+<td>
+
+**[Portfolio](https://portfolio.joseangelinfra.dev)** — *This is my web, rebuilt from scratch*
+
+Bilingual (ES/EN), light and dark, responsive from phone to desktop, with an animated diagram of my homelab. Source of truth in typed data files, deployed on Vercel.
+
+**[Live](https://portfolio.joseangelinfra.dev)** · **[GitHub](https://github.com/joseangelalejo/portfolio.joseangelinfra.dev)**
+
+<img src="https://img.shields.io/badge/-Next.js%2016-000000?style=flat&labelColor=000000&logo=next.js&logoColor=ffffff" alt="Next.js 16"/> <img src="https://img.shields.io/badge/-React%2019-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=ffffff" alt="React 19"/> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff" alt="TypeScript"/> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&labelColor=38B2AC&logo=tailwind-css&logoColor=ffffff" alt="Tailwind CSS"/> <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&labelColor=000000&logo=vercel&logoColor=ffffff" alt="Vercel"/>
 
 </td>
 </tr>
 </table>
 
+More on **[portfolio.joseangelinfra.dev](https://portfolio.joseangelinfra.dev)** and in my [repositories](https://github.com/joseangelalejo?tab=repositories).
+
 ---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="25" height="25" /> **Contact Me**
+#### **Contact Me**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joseangelalejosillero-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joseangelalejosillero/) [![Discord](https://img.shields.io/badge/Discord-joseangelalejo-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=ffffff)](https://discord.com/users/joseangelalejo) [![Gmail](https://img.shields.io/badge/Gmail-joseangelcorptiv-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=ffffff)](mailto:joseangelcorptiv@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7AA2F7?style=flat&labelColor=7AA2F7&logo=vercel&logoColor=000000)](https://portfolio.joseangelinfra.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joseangelalejosillero/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&labelColor=EA4335&logo=gmail&logoColor=ffffff)](mailto:joseangelcorptiv@gmail.com)
 
 </div>
 
 ---
 
-#### 🏆 **Achievements**
-
-<div align="center">
-
-![Linux Academy](https://img.shields.io/badge/Linux%20Academy-LFS169%20GitOps-ffffff?style=flat&labelColor=FCC624&color=FCC624&logo=linux&logoColor=000000) ![GitOps Certified](https://img.shields.io/badge/GitOps-Certified-ffffff?style=flat&labelColor=F05032&color=F05032&logo=git&logoColor=ffffff) ![DAW Student](https://img.shields.io/badge/DAW-Student-ffffff?style=flat&labelColor=007396&color=007396&logo=openjdk&logoColor=ffffff) ![Homelab Enthusiast](https://img.shields.io/badge/Homelab-Proxmox-ffffff?style=flat&labelColor=E57000&color=E57000&logo=proxmox&logoColor=ffffff)
-
-</div>
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> **Fun Fact**
-
-<div align="center">
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **GitHub Stats**
+#### **GitHub Stats**
 
 <div align="center">
 
 <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=joseangelalejo&theme=github-compact" alt="Activity Graph"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseangelalejo&theme=tokyonight&hide_border=true&background=1a1b27&dates=7aa2f7)](https://git.io/streak-stats)
-
 </div>
-
----
